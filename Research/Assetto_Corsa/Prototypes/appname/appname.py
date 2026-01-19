@@ -1,6 +1,7 @@
 import sys
 import ac
 import acsys
+from third_party import sim_info
 
 l_lapcount = 0
 lapcount = 0
