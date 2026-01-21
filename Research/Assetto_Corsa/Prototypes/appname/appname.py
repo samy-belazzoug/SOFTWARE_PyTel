@@ -80,11 +80,13 @@ def acUpdate(deltaT):
     # PITLANE UPDATE
     if current_pit == True:
         in_pit = current_pit
+        ac.setVisible(label_in_pitlane, 0)
         ac.setText(label_in_pitlane,"IN PIT")
         ac.setBackgroundColor(label_in_pitlane,255,255,0,0)
 
     else:
         in_pit = current_pit
+        ac.setVisible(label_in_pitlane, 1)
         ac.setText(label_in_pitlane,"OUT")
 
     # LAP UPDATE
