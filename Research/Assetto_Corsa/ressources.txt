@@ -13,3 +13,6 @@ https://github.com/rikby/ac-stubs?tab=readme-ov-file
 
 https://github.com/dcratliff19/AC-SimInfo-Docs-Markdown#
 -->SIM_INFO.PY FOR ASSETTO CORSA
+
+https://github.com/epezent/implot
+-->OFFICIAL REPOSITORY OF implot

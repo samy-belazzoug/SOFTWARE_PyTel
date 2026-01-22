@@ -66,7 +66,7 @@ def acMain(ac_version):
     ac.setPosition(label_fuel,630,60)
     
     return "appName"
-
+ 
 def acUpdate(deltaT):
     global label_in_pitlane,in_pit, label_lapcount,lapcount,  label_speed,speed,  label_rpm,rpm,  label_fuel,fuel,maxfuel
 
