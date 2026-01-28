@@ -16,3 +16,6 @@ https://github.com/dcratliff19/AC-SimInfo-Docs-Markdown#
 
 https://github.com/epezent/implot
 -->OFFICIAL REPOSITORY OF implot
+
+https://stackoverflow.com/questions/72161247/shared-memory-c-cross-platform
+-->Cross platform C shared memory platform. I'll have to do it myself
